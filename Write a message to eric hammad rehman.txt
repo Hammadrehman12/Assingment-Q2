@@ -1,0 +1,5 @@
+# Store the person's name in a variable
+name = "Eric"
+
+# Print a message to that person
+print(f"Hello {Eric}, would you like to learn Python today?")
